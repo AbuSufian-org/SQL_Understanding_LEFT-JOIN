@@ -1,0 +1,1 @@
+# SQL_Understanding_LEFT-JOIN
